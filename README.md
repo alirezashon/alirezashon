@@ -1,9 +1,9 @@
 Hi 👋, I'm Alireza
 
 
-- 🔭 I’m currently working on my ideas
-- 🌱 I’m currently learning more 
-- 👯 I’m looking to collaborate
+- 🔭 I'm currently working on my ideas
+- 🌱 I'm learning more skills
+- 👯 I'm looking to collaborate
 
 🛠️ Tech Stack & Tools
 I work with a diverse range of technologies to build efficient and scalable applications:
