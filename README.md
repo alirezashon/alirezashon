@@ -8,4 +8,4 @@ Hi 👋, I'm Alireza
 🛠️ Tech Stack & Tools
 I work with a diverse range of technologies to build efficient and scalable applications:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,nextjs,nestjs,css,nodejs,html,ts,git,postman,linux,py,sass,vite,yarnfigma,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nextjs,tailwind,nestjs,css,nodejs,html,ts,git,postman,linux,py,sass,vite,yarnfigma,mysql,mongodb)](https://skillicons.dev)
